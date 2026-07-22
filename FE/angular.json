@@ -13,6 +13,7 @@
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
+      "SAMSARA_API_SAMSARA_API_KEY": "samsara_api_1eesrnUgUhrQFsuLYPsLHlWZRmy5ZL",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:application",
