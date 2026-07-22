@@ -14,6 +14,7 @@
       "sourceRoot": "src",
       "prefix": "app",
       "SAMSARA_API_SAMSARA_API_KEY": "samsara_api_1eesrnUgUhrQFsuLYPsLHlWZRmy5ZL",
+      "EAAM_FACEBOOK_PAGE_ACCESS_TOKEN": "EAAMnwjvxXe3DEfJvgRN7ZBSs7A96XROfuDomGHPDnNF9tRlbZFtGzbfQ9qTn7rKwJeriWv3JB4vDqx5FyQNoCD4wqZek47bCLQXD52b",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:application",
