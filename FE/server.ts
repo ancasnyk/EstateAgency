@@ -17,8 +17,6 @@ export function app(): express.Express {
   server.set('view engine', 'html');
   server.set('views', browserDistFolder);
 
-  HTTPS_OUTLOOK_OFFICE_COM_WEBHOOK_MICROSOFT_OUTLOOK_TEAMS_WEBHOOK=https://outlook.office.com/webhook/db300@83eb7/IncomingWebhook/17a/11
-
   // Example Express Rest API endpoints
   // server.get('/api/**', (req, res) => { });
   // Serve static files from /browser
